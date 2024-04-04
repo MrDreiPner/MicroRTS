@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Objects;
 import java.util.Random;
 
-import org.jdom.Element;
+import org.jdom2.Element;
 
 import com.eclipsesource.json.Json;
 import com.eclipsesource.json.JsonObject;

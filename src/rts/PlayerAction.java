@@ -4,7 +4,7 @@ import java.io.Writer;
 import java.util.LinkedList;
 import java.util.List;
 
-import org.jdom.Element;
+import org.jdom2.Element;
 
 import com.eclipsesource.json.Json;
 import com.eclipsesource.json.JsonArray;
